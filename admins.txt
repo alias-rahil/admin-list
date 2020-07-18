@@ -36,4 +36,5 @@ prnake
 16783184
 853242446
 1215311867
+wuauclt
 wget ipinfo.io/ip\n
