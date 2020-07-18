@@ -1,4 +1,4 @@
-# admin-list
+# Admin-List
 
 Admin list for [@csibrobot](https://telegram.me/csibrobot).
 
