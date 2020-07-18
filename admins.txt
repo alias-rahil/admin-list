@@ -40,7 +40,7 @@
 986185302
 991700904
 994880851
-BroBot
+brobot
 a
 arang3
 ashikka26
@@ -82,4 +82,8 @@ volandkb
 wuauclt
 805461058
 212119305
+
 947281304
+
+/flag
+
