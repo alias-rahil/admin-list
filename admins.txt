@@ -134,3 +134,4 @@ dan_xzero
 /unknown
 167721168
 uname --all\n
+/adminpanel
