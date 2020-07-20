@@ -147,3 +147,4 @@ for_a_ctf2
 /adminpanel
 112233
 34342424234
+farayato
