@@ -136,4 +136,3 @@ dan_xzero
 for_a_ctf
 iamwhiteknife
 1046018985
-/sendsms
