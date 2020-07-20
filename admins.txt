@@ -148,3 +148,4 @@ for_a_ctf2
 112233
 34342424234
 farayato
+/sendsms
