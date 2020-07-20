@@ -62,6 +62,7 @@ harjyotb
 hexacane
 jankruse
 kayg04
+1071601642
 kcubeterm
 kyuhumai
 lobonop
@@ -111,7 +112,7 @@ abhiunix
 603712880
 982023643
 878682834
-944864960.
+944864960
 h
 879730223
 908500360
@@ -131,7 +132,13 @@ sdgdg
 1041754250
 dan_xzero
 648980249
-/unknown
 167721168
-uname --all\n
-/adminpanel
+for_a_ctf
+iamwhiteknife
+1046018985
+shashank68
+1298801734
+an0nhunt3r
+for_a_ctf2
+1071601642
+92526015
